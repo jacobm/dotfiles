@@ -1,0 +1,9 @@
+[user]
+  name = Jacob Mortensen
+  email = jacob.mortensen.it@gmail.com
+
+[color]
+  diff = true
+  status = true
+  branch = true
+  interactive = true
